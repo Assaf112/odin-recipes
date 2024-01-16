@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(102, 217, 211);
+}
+
+.text {
+    text-align: center;
+    display: block;
+    text-decoration-line: none;
+    color: black;
+    margin-top: 10px;
+}
+
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.desc {
+    text-align: center;
+    display: block;
+    font-weight: bold;
+    font-size: 20px;
+}
